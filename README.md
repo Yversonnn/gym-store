@@ -1,6 +1,6 @@
 # Gym Store
 
-A modern e-commerce web application for gym equipment and fitness products.
+A modern web application for gym equipment and fitness products.
 
 ## Repository Information
 
